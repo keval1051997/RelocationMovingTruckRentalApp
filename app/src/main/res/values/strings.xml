@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck Rental App</string>
+    <string name="txtTitle">Moving Truck Rental</string>
+    <string name="txtSize">Size of Truck</string>
+    <string name="txtMiles">Number of Miles</string>
+    <string name="imgDescription">Truck Size Image</string>
+    <string name="btnCost">Compute Cost</string>
+</resources>
